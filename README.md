@@ -2,6 +2,4 @@
 
 ```
 pip install transformers
-
-
 ```
