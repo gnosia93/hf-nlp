@@ -1,4 +1,4 @@
-# trans-nlp
+# hf-nlp
 
 ```
 pip install transformers
